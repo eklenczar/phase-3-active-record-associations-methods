@@ -7,6 +7,7 @@ thriller = Song.create(name: 'Thriller')
 
 drake = Artist.create(name: 'Drake')
 mj = Artist.create(name: 'Michael Jackson')
+run_the_jewels = Artist.create(name: "Run The Jewels")
 
 rap = Genre.create(name: 'Rap')
 pop = Genre.create(name: 'Pop')
